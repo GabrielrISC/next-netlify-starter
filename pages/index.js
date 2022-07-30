@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Gestión Escolar Organizacional!" />
+        <Header title="Welcome to my app!" />
         <p className="description">
           Hola que hace <code>geoacademy</code>
         </p>
