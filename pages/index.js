@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Gestion Escolar Organizacional!" />
+        <h2>Esta es la de GeoAcademy</h2>
         <p className="description">
           Hola que hace <code>geoacademy</code>
         </p>
