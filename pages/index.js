@@ -15,7 +15,7 @@ export default function Home() {
         <p className="description">
           Hola que hace <code>geoacademy</code>
         </p>
-        <span>sfsf</span>
+        <span>esto es un span</span>
       </main>
 
       <Footer />
